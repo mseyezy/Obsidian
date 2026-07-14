@@ -4,3 +4,7 @@
 
 # ===== Obsidian 回收站 =====
 .trash/
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.DS_Store
